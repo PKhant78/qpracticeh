@@ -1,0 +1,13 @@
+﻿Questions,Expected output
+Write a program calculating the area of a 4x4 square,16
+Write a program that converts 10 cm to meters.,0.1
+Find the length of the string: Katzenpfotenballenhimbeermarmeladenglastunker,45
+Write a program that adds two integers: 2036 and 1776. Store it in sum,4812
+"Convert the string ""hello"" to uppercase.",HELLO
+Write a program that calculates the factorial of 7 (7!). Store the result in a variable named result.,5040
+Find the square root of 144. Store the result in a variable named result.,12
+"Convert string ""LOGO"" to lowercase. ",logo
+Convert 25 miles to kilos,40.2335
+Write a program that divides two integers: 80 and 20,4
+Find the area of a triangle (height:15 and base:10),75
+"Convert the first character of the string ""happy"" to uppercase ",Happy
